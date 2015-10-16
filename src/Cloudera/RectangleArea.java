@@ -1,6 +1,9 @@
 package Cloudera;
 
-public class Second {
+/**
+ * Find area of 2 rectilinear rectangles
+ */
+public class RectangleArea {
 
     public static void main(String[] args) {
         System.out.println(solution(-4, 1, 2, 6, 0, -1, 4, 3));
